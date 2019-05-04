@@ -1,0 +1,30 @@
+body {
+background-color: black;
+}
+
+.shred {
+color: red;
+font-family: monospace;
+}
+
+.fun {
+  color: black;
+}
+
+.cool {
+  color:blue;
+}
+
+.head {
+  color: white;
+}
+
+.about {
+  font-family: fantasy;
+  font-size 40px;
+  color: white;
+}
+
+.rad {
+  color: white;
+}
