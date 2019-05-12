@@ -5,6 +5,8 @@ background-color: black;
 .shred {
 color: red;
 font-family: monospace;
+margin-top: 40px;
+margin-bottom:40px;
 }
 
 .fun {
@@ -17,14 +19,28 @@ font-family: monospace;
 
 .head {
   color: white;
+  margin-top: 20px;
+  margin-bottom: 25px;
 }
 
 .about {
-  font-family: fantasy;
+  font-family: monospace;
   font-size 40px;
-  color: white;
+  color: green;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .rad {
   color: white;
+}
+
+.endo {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.kids {
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
